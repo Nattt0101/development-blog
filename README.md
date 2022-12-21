@@ -68,9 +68,9 @@ a:focus { /* focused link */ color: purple; }
   
  
 # Week 3
-- <form>
+- form
   
-- <input>
+- input
 
 - Labels
 
