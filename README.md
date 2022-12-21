@@ -66,7 +66,7 @@ a:focus { /* focused link */ color: purple; }
   
  - Box model
   
- - 
+ 
 # Week 3
 - <form>
   
@@ -200,9 +200,66 @@ Strings, Values, Booleans
   
 - For... of loop
 
+- DOM
+* getElementById();
+Uses the value of an element's id attribute
+querySelector();
+Uses a CSS selector, and returns the first
+matching element. Classes or Ids can be
+used
+Traversal methods
+  
+* getElementsByClassName();
+Selects all elements that have a specific
+value for their class attribute
+getElementsByTagName();
+Selects all elements that have the specified
+tag name
+querySelectorAll()
+Uses a CSS selector to select all matching
+elements
+  
+*parentNode
+Selects the parent of the current node
+previousSibling/nextSibling
+Selects the previous or next sibling from the
+DOM tree
+firstChild/lastChild
+  
+* When a script selects an element to modify, the
+interpreter finds the element(s) in the DOM
+tree
+The following query searches the DOM tree for
+an element whose id attribute has a value of
+one
+Once the node is found, you can work with that
+node, its parent or children
+
+- <element>.innerHTML;
+  
+- <element>.textContent;
+  
+- <element>.className;
+  
 # Week 7
+- element.addEventListener('event', functionName, [Boolean]);
+  
+-el.addEventListener('blur', function(){
+checkUsername(5);
+}, false);
+  
+-preventDefault()
+  
+- stopPropagation()
+  
+- Validating Forms
 
-
+- Clearing Storage
+  localStorage.clear();
+  localStorage.removeItem(<item key>);
+  
+-
+-
 # Week 8
 
 # Week 9
