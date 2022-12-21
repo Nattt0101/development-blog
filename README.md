@@ -258,8 +258,40 @@ checkUsername(5);
   localStorage.clear();
   localStorage.removeItem(<item key>);
   
--
--
+- JSON
+  
+-Clearing Storage with API
+localStorage.clear();
+localStorage.removeItem(<item key>);
+  
 # Week 8
+- jQuery Selectors
+- jQuery Events
+.show() Displays selected elements
+.hide() Hides selected elements
+.toggle() Toggles between showing and hiding selected elements
+.fadeIn() Fades in selected elements making them opaque
+.fadeOut() Fades out selected elements making them transparent
+.fadeTo() Changes opacity of selected element
+.fadeToggle() Hides or shows selected elements by changing their opacity (opposite of current state)
+.slideUp() Hides selected elements with a sliding motion
+.slideDown() Shows selected elements with a sliding motion
+.slideToggle() Hides or show selected elements with a sliding motion (opposite direction of current state)
+.delay() Delays execution of subsequent items in queue
+.stop() Stops an animation if it is currently running
+.animate() Creates custom animation
+  
+- Get, Set
+  
+- Append, After
 
+- AJAX
+  
+- Fetch
+  
+- jQuery AJAX
+  
 # Week 9
+- Bootstrap
+- Bootstrap Utilities
+- Bootstrap Components
