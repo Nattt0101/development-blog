@@ -295,3 +295,20 @@ localStorage.removeItem(<item key>);
 - Bootstrap
 - Bootstrap Utilities
 - Bootstrap Components
+  
+# Week 12
+  - RestDB.io
+  - How to create a new database and navigate the functions
+  - How to create fields
+  -Postman
+  - API Docs
+  - Where to find API-Key and where to insert in code
+  
+#Week 13
+  - README Formatting
+  - commit msgs
+  
+#Week 14
+  - How to implement a Lottie Animation
+  - Converting SVG to lottie( Personalized Animated Icon)
+ 
